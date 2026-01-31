@@ -1,0 +1,4 @@
+2026-01-31 05:32:15 | INFO | example2 | This is an informational message.
+2026-01-31 05:32:15 | ERROR | example2 | This is an error message.
+2026-01-31 05:32:15 | WARNING | example2 | This is a warning message.
+2026-01-31 05:32:15 | CRITICAL | example2 | This is a critical message.

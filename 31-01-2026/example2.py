@@ -75,6 +75,7 @@ class AgentLogger:
 
 
 if __name__ == "__main__":
+    print(__name__)
     log = AgentLogger(agent_name="my_agent")
     log.info("This is an informational message.")
     log.error("This is an error message.")
